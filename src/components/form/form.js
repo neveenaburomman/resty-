@@ -1,4 +1,4 @@
-import './form.css'
+import './form.scss'
 import {useState} from 'react';
 import React from "react";
 
