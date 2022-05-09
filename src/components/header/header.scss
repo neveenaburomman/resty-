@@ -1,0 +1,13 @@
+
+$color_1: #623;
+$font-family_1: Sans-Serif;
+$background-color_1: #8d8d8d;
+
+.theHeader {
+	background-color: $background-color_1;
+	color: $color_1;
+	font-family: $font-family_1;
+	padding: 10px;
+	text-align: center;
+	border-style: outset;
+}

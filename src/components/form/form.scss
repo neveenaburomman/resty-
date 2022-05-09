@@ -1,0 +1,51 @@
+$color_1: black;
+$color_2: white;
+$background-color_1: #f8f8f8;
+$background-color_2: #d0d6d4;
+$background-color_3: #623;
+
+* {
+	box-sizing: border-box;
+}
+textarea {
+	width: 90%;
+	height: 200px;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border: 10px solid #ccc;
+	border-radius: 30px;
+	background-color: $background-color_1;
+	font-size: 16px;
+	resize: none;
+	margin: 20px;
+	
+}
+input[type=radio] {
+	background-color: $background-color_2;
+	width: 20px;
+	border: 50px;
+	color: $color_1;
+	padding: 50px;
+	margin-left: 20px;
+	cursor: pointer;
+}
+input[type=submit] {
+	background-color: $background-color_3;
+	color: $color_2;
+	width: 20%;
+	height: 80px;
+	padding: 12px 20px;
+	cursor: pointer;
+}
+input[type=text] {
+	width: 70%;
+	height: 80px;
+	padding: 12px 20px;
+	margin: 20px;
+	box-sizing: border-box;
+	border: 10px solid #ccc;
+	border-radius: 4px;
+	background-color: $background-color_1;
+	font-size: 16px;
+	resize: none;
+}

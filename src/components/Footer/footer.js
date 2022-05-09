@@ -1,11 +1,11 @@
-import "./footer.css";
+import "./footer.scss";
 
 
  function Footer() {
     return (
   <>
  <div class="footer">
- <p>  neveen aburomman  2022 </p>
+ <p1> neveen aburomman  2022 </p1>
  
  </div>
 

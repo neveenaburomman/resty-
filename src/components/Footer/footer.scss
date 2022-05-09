@@ -1,0 +1,13 @@
+$color_1: white;
+$background-color_1: #623;
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 70px;
+	background-color: $background-color_1;
+	color: $color_1;
+	text-align: center;
+}

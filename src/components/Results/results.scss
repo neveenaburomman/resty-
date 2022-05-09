@@ -1,0 +1,25 @@
+#container {
+	display: flex;
+}
+p {
+	width: 500px;
+	padding: 10px;
+	border: 5px solid grey;
+	float: left;
+    margin: 30px;
+}
+
+#data{
+	width: 90%;
+	height: 900px;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border: 10px solid #ccc;
+	border-radius: 30px;
+	font-size: 16px;
+	resize: none;
+	margin: 20px;
+	position: relative;
+	overflow: auto;
+   resize: both;
+}
