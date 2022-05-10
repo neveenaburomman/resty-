@@ -5,7 +5,7 @@
 and when clicks the “Go” button our app fetches data from the URL , with the method we have chosen and we will be able to see the result .
 
 ## useReducer-phase
-in this phase we will add a route for history ,so that we can see the list of our previous API calls,and see the results again, quickly 
+in this phase we will add a route for history ,so that we can see the list of our previous API calls,and see the results again, quickly. 
  by using a reducer to store and manage all  our application state.
 
 ![image](https://user-images.githubusercontent.com/90922969/167273905-8746435d-abf9-47cb-abe8-0c5eb20f9d9c.png)
